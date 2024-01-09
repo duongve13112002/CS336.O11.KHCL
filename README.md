@@ -8,6 +8,12 @@
 <!-- Header -->
 <h1 align="center"><b>TRUY VẤN THÔNG TIN ĐA PHƯƠNG TIỆN<br>(MULTIMEDIA INFORMATION RETRIEVAL)</b></h>
 
+## [BẢNG MỤC LỤC](#top)
+* [Giới thiệu môn học](#giới-thiệu-môn-học)
+* [Thông tin các thành viên](#thông-tin-về-các-thành-viên-nhóm)
+* [Thông tin đồ án](#thông-tin-đồ-án)
+
+
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Truy vấn thông tin đa phương tiện - Multimedia Information Retrieval
 * **Mã môn học:** CS336
@@ -16,7 +22,7 @@
 * **Giảng viên**: TS. Ngô Đức Thành
 
 <!-- Main -->
-# Thành viên nhóm:
+## [THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM](#top)
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 20520465      | Nguyễn Vũ Dương        |Nhóm trưởng|[duongve13112002](https://github.com/duongve13112002)    |20520465@gm.uit.edu.vn   |
