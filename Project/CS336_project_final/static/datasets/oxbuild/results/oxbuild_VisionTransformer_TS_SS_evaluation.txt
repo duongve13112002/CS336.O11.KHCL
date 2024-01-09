@@ -1,0 +1,230 @@
+--------------------START EVALUATING--------------------
+
++ Query  1: all_souls_1_query.txt
+            Non - Interpolated Average Precision = 0.55695
+            Interpolated Average Precision = 0.12554
+            Query Time = 0.40s
++ Query  2: all_souls_2_query.txt
+            Non - Interpolated Average Precision = 0.50493
+            Interpolated Average Precision = 0.19430
+            Query Time = 0.58s
++ Query  3: all_souls_3_query.txt
+            Non - Interpolated Average Precision = 0.73551
+            Interpolated Average Precision = 0.21396
+            Query Time = 0.64s
++ Query  4: all_souls_4_query.txt
+            Non - Interpolated Average Precision = 0.69026
+            Interpolated Average Precision = 0.39139
+            Query Time = 0.61s
++ Query  5: all_souls_5_query.txt
+            Non - Interpolated Average Precision = 0.42699
+            Interpolated Average Precision = 0.11039
+            Query Time = 0.63s
++ Query  6: ashmolean_1_query.txt
+            Non - Interpolated Average Precision = 0.55451
+            Interpolated Average Precision = 0.30239
+            Query Time = 0.63s
++ Query  7: ashmolean_2_query.txt
+            Non - Interpolated Average Precision = 0.87799
+            Interpolated Average Precision = 0.64651
+            Query Time = 0.57s
++ Query  8: ashmolean_3_query.txt
+            Non - Interpolated Average Precision = 0.69414
+            Interpolated Average Precision = 0.45909
+            Query Time = 0.61s
++ Query  9: ashmolean_4_query.txt
+            Non - Interpolated Average Precision = 0.66196
+            Interpolated Average Precision = 0.38236
+            Query Time = 0.56s
++ Query 10: ashmolean_5_query.txt
+            Non - Interpolated Average Precision = 0.86841
+            Interpolated Average Precision = 0.56785
+            Query Time = 0.40s
++ Query 11: balliol_1_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.63636
+            Query Time = 0.39s
++ Query 12: balliol_2_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.09091
+            Query Time = 0.63s
++ Query 13: balliol_3_query.txt
+            Non - Interpolated Average Precision = 0.93243
+            Interpolated Average Precision = 0.60021
+            Query Time = 0.38s
++ Query 14: balliol_4_query.txt
+            Non - Interpolated Average Precision = 0.92404
+            Interpolated Average Precision = 0.51948
+            Query Time = 0.39s
++ Query 15: balliol_5_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.63636
+            Query Time = 0.39s
++ Query 16: bodleian_1_query.txt
+            Non - Interpolated Average Precision = 0.32500
+            Interpolated Average Precision = 0.03636
+            Query Time = 0.39s
++ Query 17: bodleian_2_query.txt
+            Non - Interpolated Average Precision = 0.00000
+            Interpolated Average Precision = 0.00000
+            Query Time = 0.39s
++ Query 18: bodleian_3_query.txt
+            Non - Interpolated Average Precision = 0.00000
+            Interpolated Average Precision = 0.00000
+            Query Time = 0.37s
++ Query 19: bodleian_4_query.txt
+            Non - Interpolated Average Precision = 0.00000
+            Interpolated Average Precision = 0.00000
+            Query Time = 0.38s
++ Query 20: bodleian_5_query.txt
+            Non - Interpolated Average Precision = 0.00000
+            Interpolated Average Precision = 0.00000
+            Query Time = 0.39s
++ Query 21: christ_church_1_query.txt
+            Non - Interpolated Average Precision = 0.52195
+            Interpolated Average Precision = 0.11515
+            Query Time = 0.39s
++ Query 22: christ_church_2_query.txt
+            Non - Interpolated Average Precision = 0.38580
+            Interpolated Average Precision = 0.10638
+            Query Time = 0.39s
++ Query 23: christ_church_3_query.txt
+            Non - Interpolated Average Precision = 0.21685
+            Interpolated Average Precision = 0.06789
+            Query Time = 0.39s
++ Query 24: christ_church_4_query.txt
+            Non - Interpolated Average Precision = 0.40453
+            Interpolated Average Precision = 0.09012
+            Query Time = 0.39s
++ Query 25: christ_church_5_query.txt
+            Non - Interpolated Average Precision = 0.45077
+            Interpolated Average Precision = 0.13182
+            Query Time = 0.40s
++ Query 26: cornmarket_1_query.txt
+            Non - Interpolated Average Precision = 0.84127
+            Interpolated Average Precision = 0.55411
+            Query Time = 0.40s
++ Query 27: cornmarket_2_query.txt
+            Non - Interpolated Average Precision = 0.00000
+            Interpolated Average Precision = 0.00000
+            Query Time = 0.39s
++ Query 28: cornmarket_3_query.txt
+            Non - Interpolated Average Precision = 0.93056
+            Interpolated Average Precision = 0.59848
+            Query Time = 0.39s
++ Query 29: cornmarket_4_query.txt
+            Non - Interpolated Average Precision = 0.84127
+            Interpolated Average Precision = 0.55411
+            Query Time = 0.39s
++ Query 30: cornmarket_5_query.txt
+            Non - Interpolated Average Precision = 0.92404
+            Interpolated Average Precision = 0.68110
+            Query Time = 0.62s
++ Query 31: hertford_1_query.txt
+            Non - Interpolated Average Precision = 0.96085
+            Interpolated Average Precision = 0.61364
+            Query Time = 0.39s
++ Query 32: hertford_2_query.txt
+            Non - Interpolated Average Precision = 0.95645
+            Interpolated Average Precision = 0.61457
+            Query Time = 0.40s
++ Query 33: hertford_3_query.txt
+            Non - Interpolated Average Precision = 0.99774
+            Interpolated Average Precision = 0.81818
+            Query Time = 0.57s
++ Query 34: hertford_4_query.txt
+            Non - Interpolated Average Precision = 0.99142
+            Interpolated Average Precision = 0.72727
+            Query Time = 0.62s
++ Query 35: hertford_5_query.txt
+            Non - Interpolated Average Precision = 0.98335
+            Interpolated Average Precision = 0.80774
+            Query Time = 0.62s
++ Query 36: keble_1_query.txt
+            Non - Interpolated Average Precision = 0.94286
+            Interpolated Average Precision = 0.67532
+            Query Time = 0.59s
++ Query 37: keble_2_query.txt
+            Non - Interpolated Average Precision = 0.91667
+            Interpolated Average Precision = 0.51515
+            Query Time = 0.60s
++ Query 38: keble_3_query.txt
+            Non - Interpolated Average Precision = 0.90286
+            Interpolated Average Precision = 0.65714
+            Query Time = 0.57s
++ Query 39: keble_4_query.txt
+            Non - Interpolated Average Precision = 0.96667
+            Interpolated Average Precision = 0.69697
+            Query Time = 0.61s
++ Query 40: keble_5_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.27273
+            Query Time = 0.58s
++ Query 41: magdalen_1_query.txt
+            Non - Interpolated Average Precision = 0.39262
+            Interpolated Average Precision = 0.08540
+            Query Time = 0.40s
++ Query 42: magdalen_2_query.txt
+            Non - Interpolated Average Precision = 0.32620
+            Interpolated Average Precision = 0.07273
+            Query Time = 0.38s
++ Query 43: magdalen_3_query.txt
+            Non - Interpolated Average Precision = 0.57974
+            Interpolated Average Precision = 0.13333
+            Query Time = 0.40s
++ Query 44: magdalen_4_query.txt
+            Non - Interpolated Average Precision = 0.13711
+            Interpolated Average Precision = 0.03030
+            Query Time = 0.37s
++ Query 45: magdalen_5_query.txt
+            Non - Interpolated Average Precision = 0.26943
+            Interpolated Average Precision = 0.04935
+            Query Time = 0.37s
++ Query 46: pitt_rivers_1_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 1.00000
+            Query Time = 0.41s
++ Query 47: pitt_rivers_2_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.81818
+            Query Time = 0.38s
++ Query 48: pitt_rivers_3_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.81818
+            Query Time = 0.39s
++ Query 49: pitt_rivers_4_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.81818
+            Query Time = 0.59s
++ Query 50: pitt_rivers_5_query.txt
+            Non - Interpolated Average Precision = 1.00000
+            Interpolated Average Precision = 0.54545
+            Query Time = 0.40s
++ Query 51: radcliffe_camera_1_query.txt
+            Non - Interpolated Average Precision = 0.95802
+            Interpolated Average Precision = 0.78819
+            Query Time = 0.39s
++ Query 52: radcliffe_camera_2_query.txt
+            Non - Interpolated Average Precision = 0.92508
+            Interpolated Average Precision = 0.76646
+            Query Time = 0.38s
++ Query 53: radcliffe_camera_3_query.txt
+            Non - Interpolated Average Precision = 0.95724
+            Interpolated Average Precision = 0.78839
+            Query Time = 0.42s
++ Query 54: radcliffe_camera_4_query.txt
+            Non - Interpolated Average Precision = 0.96067
+            Interpolated Average Precision = 0.78995
+            Query Time = 0.37s
++ Query 55: radcliffe_camera_5_query.txt
+            Non - Interpolated Average Precision = 0.96465
+            Interpolated Average Precision = 0.79347
+            Query Time = 0.39s
+
+-------------------FINISH EVALUATING--------------------
+
+Total number of queries = 55
+Non - Interpolated Mean Average Precision = 0.69745
+Interpolated Mean Average Precision = 0.42744
+Mean Reciprocal Rank = 0.81727
+Evaluating Time = 26.33s
