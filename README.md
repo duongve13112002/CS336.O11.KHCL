@@ -14,7 +14,7 @@
 * [Thông tin đồ án](#thông-tin-đồ-án)
 
 
-## GIỚI THIỆU MÔN HỌC
+## [GIỚI THIỆU MÔN HỌC](#top)
 * **Tên môn học:** Truy vấn thông tin đa phương tiện - Multimedia Information Retrieval
 * **Mã môn học:** CS336
 * **Mã lớp:** CS336.O11.KHCL
